@@ -44,7 +44,7 @@ Show the qr code to any wallet user to receive tokens
 ## Run locally
 
 Note :- Use node version 16 Lts version and react-native 0.63 donot try to upgrade it will 
-        more no. of times than you can count.
+        more no. of times than you can count. :sob:
 
 To run locally copy the github repo and 
 
